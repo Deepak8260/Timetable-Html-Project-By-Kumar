@@ -2,6 +2,6 @@ Below are the deployment links of this Project
 
 GitHub Pages- https://deepak8260.github.io/Timetable-Html-Project-By-Kumar/
 
-Netlify - https://kumarai-timetable-html.netlify.app/
+Netlify - https://kumarai-routine-html.netlify.app/
 
 Versel - https://kumarai-timetable-html.vercel.app/
